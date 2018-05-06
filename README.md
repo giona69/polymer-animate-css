@@ -5,13 +5,17 @@ based on:
 [Animate.css](https://daneden.github.io/animate.css/)
 
 # install
+```
 bower install --save polymer-animate-css
+npm i polymer-animate-css
+```
 
 # usage
 import the polyerm-animate-css html module
 include in the template styles
 add animate css classes to html elements you want to animate
 
+```html
 <link rel="import" href="../bower_components/polymer-animate-css/polymer-animate-css.html">
 
 <dom-module id="my-polymer-module">
@@ -40,3 +44,4 @@ add animate css classes to html elements you want to animate
         window.customElements.define(MyPolymerModule.is, MyPolymerModule);
     </script>
 </dom-module>
+```
