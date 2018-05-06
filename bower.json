@@ -1,0 +1,22 @@
+{
+  "name": "polymer-animate-css",
+  "homepage": "https://github.com/giona69/polymer-animate-css",
+  "authors": [
+    "Giona Granata <giona.granata@gmail.com>"
+  ],
+  "description": "Animate.css style import for Polymer",
+  "main": "polymer-animate-css.html",
+  "keywords": [
+    "polymer",
+    "animate",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
