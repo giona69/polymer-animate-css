@@ -1,0 +1,24 @@
+{
+  "name": "polymer-animate-css",
+  "version": "0.0.5",
+  "description": "Animate.css style import for Polymer",
+  "main": "polymer-animate-css.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giona69/polymer-animate-css.git"
+  },
+  "keywords": [
+    "polymer",
+    "animate",
+    "css"
+  ],
+  "author": "Giona Granata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giona69/polymer-animate-css/issues"
+  },
+  "homepage": "https://github.com/giona69/polymer-animate-css#readme"
+}
